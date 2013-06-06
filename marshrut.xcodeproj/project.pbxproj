@@ -61,6 +61,7 @@
 		84CF4488174A2AE200E159A8 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84CF4486174A2AE200E159A8 /* MainStoryboard.storyboard */; };
 		84CF448B174A2AE200E159A8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84CF448A174A2AE200E159A8 /* ViewController.m */; };
 		84DFF3BF174B85A700AC289B /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84DFF3BE174B85A700AC289B /* TableViewController.m */; };
+		84F6063717609316009863E9 /* 20a.png in Resources */ = {isa = PBXBuildFile; fileRef = 84F6063617609316009863E9 /* 20a.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -125,6 +126,7 @@
 		84CF448A174A2AE200E159A8 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		84DFF3BD174B85A700AC289B /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
 		84DFF3BE174B85A700AC289B /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		84F6063617609316009863E9 /* 20a.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 20a.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +173,7 @@
 				847EC063175E068200938511 /* 2k.png */,
 				847EC064175E068200938511 /* 3.png */,
 				847EC065175E068200938511 /* 3a.png */,
+				84F6063617609316009863E9 /* 20a.png */,
 				847EC066175E068200938511 /* 3b.png */,
 				847EC067175E068200938511 /* 4.png */,
 				847EC068175E068200938511 /* 4a.png */,
@@ -353,6 +356,7 @@
 				847EC092175E068200938511 /* 7.png in Resources */,
 				847EC093175E068200938511 /* 8.png in Resources */,
 				847EC094175E068200938511 /* 9.png in Resources */,
+				84F6063717609316009863E9 /* 20a.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
